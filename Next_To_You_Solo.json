@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Next To You - Solo Clean",
+    "bpm": 80,
+    "bitsPerPage": 16,
+    "pitchLevel": 0,
+    "isComposed": true,
+    "songNotes": [
+      {"time": 0, "key": "1Key4"}, {"time": 820, "key": "1Key8"},
+      {"time": 1640, "key": "1Key11"}, {"time": 2460, "key": "1Key8"},
+      {"time": 3280, "key": "1Key4"}, {"time": 4100, "key": "1Key8"},
+      {"time": 4920, "key": "1Key11"}, {"time": 5740, "key": "1Key8"},
+      {"time": 6560, "key": "1Key2"}, {"time": 7380, "key": "1Key6"},
+      {"time": 8200, "key": "1Key9"}, {"time": 9020, "key": "1Key6"},
+      {"time": 9840, "key": "1Key2"}, {"time": 10660, "key": "1Key6"},
+      {"time": 11480, "key": "1Key9"}, {"time": 12300, "key": "1Key6"},
+      {"time": 13120, "key": "1Key4"}, {"time": 13940, "key": "1Key8"},
+      {"time": 14760, "key": "1Key11"}, {"time": 15580, "key": "1Key8"}
+    ]
+  }
+]
